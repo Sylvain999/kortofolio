@@ -1,0 +1,18 @@
+{
+    "resources": {
+        "en": {
+            "translation" :{
+                "key_welcome": "Welcome",
+                "key_not_found": "Not Found"
+            }
+        },
+        "fr": {
+            "translation" :{
+                "key_welcome": "Bienvenue",
+                "key_not_found": "Pas trouvé"
+            }
+        }
+    },
+    "lng": "en",
+    "fallbackLng": "en"
+}
